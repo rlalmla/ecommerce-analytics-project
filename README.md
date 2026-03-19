@@ -99,17 +99,6 @@ Raw Data → Cleaning → Merging → PostgreSQL → SQL Analysis → Streamlit 
 
 ---
 
-## 📸 Visual Insights (Add your screenshots)
-
-* Data Cleaning Example
-* Merged Dataset Preview
-* EDA Analysis
-* Dashboard View
-
-(Add images inside an `images/` folder and link them here)
-
----
-
 ## 📊 Key Insights
 
 * Revenue trends across years
