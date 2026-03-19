@@ -8,6 +8,25 @@ It transforms raw datasets into meaningful insights through data cleaning, datab
 
 ---
 
+## 📂 Dataset
+
+Due to large file size, the dataset is hosted externally.
+
+🔗 Google Drive Link:  
+https://drive.google.com/drive/folders/1ZHB4x8nZHuXmyDlwujWtbOaxiMHWf-3-?usp=drive_link
+
+### Instructions:
+1. Download the dataset  
+2. Extract all files  
+3. Move them to:
+   `raw_data/` folder in the project  
+
+⚠️ Make sure the folder structure remains unchanged  
+
+> Dataset provided as part of guided learning / mentorship.
+
+---
+
 ## 🧠 Problem Statement
 
 Raw e-commerce data is often messy, inconsistent, and spread across multiple files.
