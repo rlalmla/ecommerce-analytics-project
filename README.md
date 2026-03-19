@@ -145,4 +145,4 @@ README.md                  - Documentation
 
 ## 👤 Author
 
-Rama Naren
+Rama Sekar
